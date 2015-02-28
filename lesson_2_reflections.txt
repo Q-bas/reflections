@@ -2,3 +2,9 @@ What happens when you initialize a repository? Why do you need to do it?
 -GIT marks directory as a git repo. We need this in order let git know what are boundaries or repo.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 -it is some kind of mediator. Maybe virtual condition, when files are chosen and prepared for a commitment
+How can you use the staging area to make sure you have one commit per logical change?
+-EAch addition to staging area counts separately
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-dfkgbdsbvjsfbzkhbvIDNTCARE
+How do the diagrams help you visualize the branch structure?
+-
