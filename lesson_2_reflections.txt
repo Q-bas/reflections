@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+-GIT marks directory as a git repo. We need this in order let git know what are boundaries or repo.
